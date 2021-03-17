@@ -1,1 +1,1 @@
-# Stock Control Service
+# Stock Control API
